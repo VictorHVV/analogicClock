@@ -74,4 +74,4 @@ def polar_to_cartesian(r, theta):
 
 ## 👤 Author
 
-- **GitHub.com/VictorHVV** - _Desarrollo del proyecto_
+- **GitHub.com/VictorHVV** - _Project Developer_
